@@ -1,0 +1,64 @@
+SIFT + KFOLDS + SVM + https://www.csc.kth.se/cvap/actions/
+MHI Processed in  1456.600001335144
+Labels and Features Processed in  106.34099793434143
+BOW Processed in  2708.996999979019
+Model Trained in 13.85899829864502
+Accuracy  0.7663165266106443
+Total Time  4285.7979991436005
+
+ORB + KFOLDS + SVM + https://www.csc.kth.se/cvap/actions/
+MHI Processed in  1452.5250041484833
+Labels and Features Processed in  17.6699960231781
+BOW Processed in  200.2650022506714
+Model Trained in 0.883000373840332
+Accuracy  0.5959243697478991
+Total Time  1671.344003200531
+
+SIFT + KFOLDS + NEURAL NETWORK MLPCLASS + https://www.csc.kth.se/cvap/actions/
+MHI Processed in  1448.470003604889
+Labels and Features Processed in  106.5199978351593
+BOW Processed in  2640.910000562668
+Model Trained in 19.46700429916382
+Accuracy  0.6810644257703081
+Total Time  4215.368005037308
+
+ORB + KFOLDS + NNMLPCLASS + https://www.csc.kth.se/cvap/actions/
+MHI Processed in  1457.7450008392334
+Labels and Features Processed in  16.60800051689148
+BOW Processed in  223.23900055885315
+Model Trained in 6.273001670837402
+Accuracy  0.5710224089635855
+Total Time  1703.8660063743591
+
+SIFT + KFOLD + MLPCLASS + http://serre-lab.clps.brown.edu/wp-content/uploads/2013/10/hmdb51_org.rar
+MHI Processed in  527.5070378780365
+Labels and Features Processed in  161.64299893379211
+BOW Processed in  6226.54771065712
+Model Trained in 46.82866406440735
+Accuracy  0.36920196439533454
+Total Time  6962.526411533356
+
+SIFT + KFOLD + SVM + 2nd ds
+MHI Processed in  509.37345027923584
+Labels and Features Processed in  160.2899980545044
+BOW Processed in  6071.514878749847
+Model Trained in 32.893630266189575
+Accuracy  0.47121546961325966
+Total Time  6774.077960014343
+
+ORB + KFOLD + SVM + 2nd ds
+MHI Processed in  524.1670050621033
+Labels and Features Processed in  26.394999265670776
+BOW Processed in  330.2739968299866
+Model Trained in 1.4950025081634521
+Accuracy  0.27825046040515655
+Total Time  882.3320047855377
+
+
+ORB + KFOLD + MLP + 2nd ds
+MHI Processed in  533.3824996948242
+Labels and Features Processed in  26.996997833251953
+BOW Processed in  344.13721919059753
+Model Trained in 9.472002744674683
+Accuracy  0.2173357888275015
+Total Time  913.9887194633484
