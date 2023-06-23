@@ -16,6 +16,6 @@ Open the repo using your favourite IDE then run the main file.
 
 ## Results
 
-Results vary depending on the classifier/feature extractor/dataset used. MHIs can be found in the database folder. The image below is an example of an MHI.
+Results vary depending on the classifier/feature extractor/dataset used which can be found in the results text file. MHIs can be found in the database folder. The image below is an example of an MHI.
 
-![Motion History Image of a person brushing their hair](database\mhiImages\brush_hair\April_09_brush_hair_u_nm_np1_ba_goo_0.jpg)
+![Motion History Image of a person brushing their hair](database/mhiImages/brush_hair/April_09_brush_hair_u_nm_np1_ba_goo_0.jpg)
